@@ -66,7 +66,7 @@
     "jasmine-spec-reporter": "^4.2.1",
     "jsonlint-cli": "^1.0.1",
     "mini-css-extract-plugin": "^0.4.1",
-    "node-sass": "^4.9.3",
+    "node-sass": "^9.0.0",
     "optimize-css-assets-webpack-plugin": "^5.0.0",
     "postcss-loader": "^3.0.0",
     "prunk": "^1.3.1",
@@ -77,7 +77,7 @@
     "tmp": "0.0.33",
     "url-regex": "^4.1.1",
     "uuid": "^3.3.2",
-    "webpack": "^4.16.5",
+    "webpack": "^5.94.0",
     "webpack-cli": "^3.1.0",
     "whatwg-url": "^6.5.0",
     "xterm": "^3.6.0"
